@@ -11,5 +11,4 @@ elif costs < profit:
 else:
     print("Выручка равна издержкам")
 
-
 print()
